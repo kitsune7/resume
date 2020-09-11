@@ -1,11 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { BrowserRouter as Router } from 'react-router-dom'
-import App from './App'
+import Resume from './Resume/Resume'
 
 ReactDOM.render(
   <Router>
-    <App />
+    <Resume />
   </Router>,
   document.getElementById('app')
 )

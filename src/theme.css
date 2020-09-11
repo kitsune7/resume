@@ -1,0 +1,36 @@
+:root {
+  --spacing-1: 2px;
+  --spacing-2: 4px;
+  --spacing-3: 8px;
+  --spacing-4: 12px;
+  --spacing-5: 16px;
+  --spacing-6: 20px;
+  --spacing-7: 24px;
+  --spacing-8: 32px;
+  --spacing-9: 40px;
+
+  --layout-1: 16px;
+  --layout-2: 24px;
+  --layout-3: 32px;
+  --layout-4: 48px;
+  --layout-5: 64px;
+  --layout-6: 96px;
+  --layout-7: 160px;
+
+  --font-size-h1: 3.2em;
+  --font-size-h2: 2em;
+  --font-size-h3: 1.5em;
+  --font-size-body: 1em;
+  --font-size-small: 0.8em;
+
+  --font-primary: 'Lato', sans-serif;
+  --font-secondary: 'Open Sans', sans-serif;
+
+  --header-line-spacing: 2px;
+
+  --color-body-background: #f8f9fb;
+  --color-border: #4e5866;
+  --color-text: #252525;
+  --color-highlight: #f35d0c;
+  --color-accent: #0c9cf5;
+}
