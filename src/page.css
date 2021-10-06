@@ -9,8 +9,7 @@ html {
 }
 
 html,
-body,
-#app {
+body {
   height: 100%;
   width: 100%;
 }
@@ -23,13 +22,16 @@ body {
   line-height: 1.4em;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   letter-spacing: var(--header-line-spacing);
   line-height: 1.2em;
   text-transform: uppercase;
 }
 
-h1, h2 {
+h1,
+h2 {
   font-family: var(--font-primary);
   font-weight: 300;
   text-align: center;
