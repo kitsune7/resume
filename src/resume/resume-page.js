@@ -75,9 +75,8 @@ define({
             <p>
               Enthusiastic and detail-oriented software engineer with 7+ years of experience
               building rich applications using Typescript/JavaScript and other web technologies.
-              Eager to support BambooHR in building highly polished and interactive frontend web
-              UIs, coordinating with/mentoring others, and delivering a world-class experience to
-              BambooHR's customers.
+              Eager to build highly polished and interactive frontend web UIs, write high quality
+              code, and deliver a world-class experience to customers.
             </p>
           </section>
 
