@@ -26,13 +26,13 @@ define({
                   >christopher.bradshaw7@gmail.com</a
                 >
               </li>
-              <li><ion-icon name="location-outline"></ion-icon>Eagle Mountain, UT, USA</li>
               <li>
                 <ion-icon name="globe-outline"></ion-icon
-                ><a href="https://christopher-bradshaw.com" target="_blank"
+                ><a href="https://christopher-bradshaw.com" target="_blank" rel='noopener'
                   >christopher-bradshaw.com</a
                 >
               </li>
+              <li><ion-icon name="location-outline"></ion-icon>Eagle Mountain, UT, USA</li>
             </ul>
           </section>
 
@@ -53,7 +53,7 @@ define({
               <li>React.js</li>
               <li>Native web components</li>
               <li>Node.js</li>
-              <li>Webpack/Other build tools</li>
+              <li>Vite/Other build tools</li>
               <li>CI/CD workflows</li>
             </ul>
           </section>
@@ -71,31 +71,20 @@ define({
         </article>
         <main>
           <section>
-            <h3>Career Objective</h3>
-            <p>
-              Enthusiastic and detail-oriented software engineer with 7+ years of experience
-              building rich applications using Typescript/JavaScript and other web technologies.
-              Eager to build highly polished and interactive frontend web UIs, write high quality
-              code, and deliver a world-class experience to customers.
-            </p>
-          </section>
-
-          <section>
             <h3>Experience</h3>
             <h4>Senior Software Engineer</h4>
             <p>Weave | Lehi, UT | Oct 2020 - Present</p>
             <ul class="list">
               <li>
-                Setup a CI pipeline to automatically code sign, notarize, and staple Weave's desktop
+                Architected and set up the infrastructure for a re-write of Weave's main software product
+              </li>
+              <li>
+                Set up a CI pipeline to automatically code sign, notarize, and staple Weave's desktop
                 application
               </li>
               <li>
                 Wrote codemods to dynamically refactor technical debt in 3 separate product
                 repositories
-              </li>
-              <li>
-                Created and maintained components and utilities for an internal design system used
-                in all of Weave's products
               </li>
             </ul>
           </section>
@@ -109,7 +98,7 @@ define({
                 Typescript and React.js
               </li>
               <li>
-                Setup and maintained code bundling, CI/CD pipelines, HTTPS certificates, and server
+                Set up and maintained code bundling, CI/CD pipelines, HTTPS certificates, and server
                 infrastructure
               </li>
             </ul>
@@ -121,6 +110,14 @@ define({
             <ul class="list">
               <li>Coordinated with multiple teams to create features used by millions of users</li>
             </ul>
+          </section>
+          <section>
+            <h4>See More on LinkedIn</h4>
+            <p>
+              To keep it short and to the point, this resume only highlights a small selection of my job history.
+              For a more complete history, see my profile on
+              <a href='https://www.linkedin.com/in/christophergbradshaw/' target='_blank' rel='noopener'>LinkedIn</a>.
+            </p>
           </section>
         </main>
       </div>
