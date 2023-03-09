@@ -28,8 +28,8 @@ define({
               </li>
               <li>
                 <ion-icon name="globe-outline"></ion-icon
-                ><a href="https://christopher-bradshaw.com" target="_blank" rel='noopener'
-                  >christopher-bradshaw.com</a
+                ><a href="https://www.linkedin.com/in/christophergbradshaw/" target="_blank" rel='noopener'
+                  >LinkedIn</a
                 >
               </li>
               <li><ion-icon name="location-outline"></ion-icon>Eagle Mountain, UT, USA</li>
@@ -46,15 +46,15 @@ define({
           <section>
             <h3>Relevant Skills</h3>
             <ul class="list">
-              <li>HTML</li>
-              <li>CSS</li>
+              <li>React Native</li>
+              <li>React.js</li>
+              <li>CI workflows</li>
               <li>Typescript</li>
               <li>JavaScript</li>
-              <li>React.js</li>
-              <li>Native web components</li>
+              <li>HTML</li>
+              <li>CSS</li>
               <li>Node.js</li>
               <li>Vite/Other build tools</li>
-              <li>CI/CD workflows</li>
             </ul>
           </section>
 
@@ -70,28 +70,33 @@ define({
           </section>
         </article>
         <main>
+          <!--<section>
+            <h3>Career Objective</h3>
+            <p>Enthusiastic and detail-oriented software engineer with 10 years of experience building
+            rich applications using Typescript/JavaScript and other web technologies. Eager to build
+            highly polished and interactive frontend web UIs, write high-quality code, and deliver a
+            world-class UX.</p>
+          </section>-->
+          
           <section>
             <h3>Experience</h3>
             <h4>Senior Software Engineer</h4>
-            <p>Weave | Lehi, UT | Oct 2020 - Present</p>
+            <p>Weave | Lehi, UT | Oct 2020 - Jan 2023</p>
             <ul class="list">
               <li>
-                Architected and set up the infrastructure for a re-write of Weave's main software product
+                Set up a CI pipeline to automatically code sign, notarize, and staple Weave's
+                desktop application
               </li>
               <li>
-                Set up a CI pipeline to automatically code sign, notarize, and staple Weave's desktop
-                application
-              </li>
-              <li>
-                Wrote codemods to dynamically refactor technical debt in 3 separate product
-                repositories
+                Architected and set up the infrastructure for a re-write of Weave's main software
+                product
               </li>
             </ul>
           </section>
 
           <section>
             <h4>Frontend Team Lead</h4>
-            <p>DataBased | Lehi, UT | Aug 2018 - Present</p>
+            <p>DataBased | Lehi, UT | Aug 2018 - Sep 2020</p>
             <ul class="list">
               <li>
                 Designed and implemented the UX/UI for DataBased's websites and services in
@@ -103,14 +108,25 @@ define({
               </li>
             </ul>
           </section>
-
+          
           <section>
-            <h4>Web Developer</h4>
-            <p>FamilySearch | Orem, UT | Mar 2016 - Aug 2016</p>
+            <h4>Mobile Application Developer</h4>
+            <p>Lifey | Provo, UT | Jan 2017 - Aug 2018</p>
             <ul class="list">
-              <li>Coordinated with multiple teams to create features used by millions of users</li>
+              <li>Created a cross-platform mobile app in React Native</li>
+              <li>Built a custom video player in native HTML, CSS, and JavaScript</li>
             </ul>
           </section>
+
+          <section>
+            <h4>Mobile Application Developer</h4>
+            <p>Fiddle Software | Provo, UT | Mar 2017 - Aug 2017</p>
+            <ul class="list">
+              <li>Published the "Fiddle Pro" app on the App Store</li>
+              <li>Created an app in React Native that consumed a GraphQL API</li>
+            </ul>
+          </section>
+          
           <section>
             <h4>See More on LinkedIn</h4>
             <p>
