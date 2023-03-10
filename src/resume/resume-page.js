@@ -23,14 +23,14 @@ define({
               <li>
                 <ion-icon name="mail-outline"></ion-icon
                 ><a href="mailto:christopher.bradshaw7@gmail.com"
-                  >christopher.bradshaw7@gmail.com</a
-                >
+              >christopher.bradshaw7@gmail.com</a
+              >
               </li>
               <li>
                 <ion-icon name="globe-outline"></ion-icon
-                ><a href="https://christopher-bradshaw.com" target="_blank" rel='noopener'
-                  >christopher-bradshaw.com</a
-                >
+                ><a href="https://www.linkedin.com/in/christophergbradshaw/" target="_blank" rel='noopener'
+              >LinkedIn</a
+              >
               </li>
               <li><ion-icon name="location-outline"></ion-icon>Eagle Mountain, UT, USA</li>
             </ul>
@@ -70,10 +70,18 @@ define({
           </section>
         </article>
         <main>
+          <!--<section>
+            <h3>Career Objective</h3>
+            <p>Enthusiastic and detail-oriented software engineer with 10 years of experience building
+            rich applications using Typescript/JavaScript and other web technologies. Eager to build
+            highly polished and interactive frontend web UIs, write high-quality code, and deliver a
+            world-class UX.</p>
+          </section>-->
+
           <section>
             <h3>Experience</h3>
-            <h4>Senior Software Engineer</h4>
-            <p>Weave | Lehi, UT | Oct 2020 - Present</p>
+            <h4>Senior Frontend Engineer</h4>
+            <p>Weave | Lehi, UT | Oct 2020 - Jan 2023</p>
             <ul class="list">
               <li>
                 Architected and set up the infrastructure for a re-write of Weave's main software product
@@ -90,16 +98,17 @@ define({
           </section>
 
           <section>
-            <h4>Frontend Team Lead</h4>
-            <p>DataBased | Lehi, UT | Aug 2018 - Present</p>
+            <h4>Team Lead</h4>
+            <p>DataBased | Lehi, UT | Aug 2018 - Sep 2020</p>
             <ul class="list">
-              <li>
-                Designed and implemented the UX/UI for DataBased's websites and services in
-                Typescript and React.js
-              </li>
               <li>
                 Set up and maintained code bundling, CI/CD pipelines, HTTPS certificates, and server
                 infrastructure
+              </li>
+              <li>Created the main Node.js API and PostgreSQL database on the backend</li>
+              <li>
+                Designed and implemented the UX/UI for DataBased's websites and services in
+                Typescript and React.js
               </li>
             </ul>
           </section>
@@ -109,8 +118,10 @@ define({
             <p>FamilySearch | Orem, UT | Mar 2016 - Aug 2016</p>
             <ul class="list">
               <li>Coordinated with multiple teams to create features used by millions of users</li>
+              <li>Submitted an average of 33 PRs a month to fix bugs and add new features</li>
             </ul>
           </section>
+
           <section>
             <h4>See More on LinkedIn</h4>
             <p>
