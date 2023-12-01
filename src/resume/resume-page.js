@@ -23,14 +23,17 @@ define({
               <li>
                 <ion-icon name="mail-outline"></ion-icon
                 ><a href="mailto:christopher.bradshaw7@gmail.com"
-              >christopher.bradshaw7@gmail.com</a
-              >
+                  >christopher.bradshaw7@gmail.com</a
+                >
               </li>
               <li>
                 <ion-icon name="globe-outline"></ion-icon
-                ><a href="https://www.linkedin.com/in/christophergbradshaw/" target="_blank" rel='noopener'
-              >LinkedIn</a
-              >
+                ><a
+                  href="https://www.linkedin.com/in/christophergbradshaw/"
+                  target="_blank"
+                  rel="noopener"
+                  >LinkedIn</a
+                >
               </li>
               <li><ion-icon name="location-outline"></ion-icon>Eagle Mountain, UT, USA</li>
             </ul>
@@ -50,8 +53,8 @@ define({
               <li>CSS</li>
               <li>Typescript</li>
               <li>JavaScript</li>
+              <li>Svelte</li>
               <li>React.js</li>
-              <li>Native web components</li>
               <li>Node.js</li>
               <li>Vite/Other build tools</li>
               <li>CI/CD workflows</li>
@@ -78,17 +81,35 @@ define({
             world-class UX.</p>
           </section>-->
 
+          <h3>Experience</h3>
+
           <section>
-            <h3>Experience</h3>
+            <h4>Senior Software Engineer</h4>
+            <p>Spoonful of Comfort | Salt Lake City, UT | Mar 2023 - Nov 2023</p>
+            <ul class="list">
+              <li>
+                Built a fully functional and highly customized e-commerce website from scratch in
+                SvelteKit, Typescript, and Tailwind
+              </li>
+              <li>
+                Designed and built an internal company website that extended the functionality of
+                3rd party platforms such as BigCommerce and ButterCMS
+              </li>
+              <li>Imported over 185,000 coupon codes into BigCommerce from Shopify via Node.js</li>
+            </ul>
+          </section>
+
+          <section>
             <h4>Senior Frontend Engineer</h4>
             <p>Weave | Lehi, UT | Oct 2020 - Jan 2023</p>
             <ul class="list">
               <li>
-                Architected and set up the infrastructure for a re-write of Weave's main software product
+                Architected and set up the infrastructure for a re-write of Weave's main software
+                product
               </li>
               <li>
-                Set up a CI pipeline to automatically code sign, notarize, and staple Weave's desktop
-                application
+                Set up a CI pipeline to automatically code sign, notarize, and staple Weave's
+                desktop application
               </li>
               <li>
                 Wrote codemods to dynamically refactor technical debt in 3 separate product
@@ -101,10 +122,6 @@ define({
             <h4>Team Lead</h4>
             <p>DataBased | Lehi, UT | Aug 2018 - Sep 2020</p>
             <ul class="list">
-              <li>
-                Set up and maintained code bundling, CI/CD pipelines, HTTPS certificates, and server
-                infrastructure
-              </li>
               <li>Created the main Node.js API and PostgreSQL database on the backend</li>
               <li>
                 Designed and implemented the UX/UI for DataBased's websites and services in
@@ -114,20 +131,16 @@ define({
           </section>
 
           <section>
-            <h4>Web Developer</h4>
-            <p>FamilySearch | Orem, UT | Mar 2016 - Aug 2016</p>
-            <ul class="list">
-              <li>Coordinated with multiple teams to create features used by millions of users</li>
-              <li>Submitted an average of 33 PRs a month to fix bugs and add new features</li>
-            </ul>
-          </section>
-
-          <section>
             <h4>See More on LinkedIn</h4>
             <p>
-              To keep it short and to the point, this resume only highlights a small selection of my job history.
-              For a more complete history, see my profile on
-              <a href='https://www.linkedin.com/in/christophergbradshaw/' target='_blank' rel='noopener'>LinkedIn</a>.
+              To keep it short and to the point, this resume only highlights a small selection of my
+              job history. For a more complete history, see my profile on
+              <a
+                href="https://www.linkedin.com/in/christophergbradshaw/"
+                target="_blank"
+                rel="noopener"
+                >LinkedIn</a
+              >.
             </p>
           </section>
         </main>
