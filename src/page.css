@@ -57,6 +57,7 @@ h3 {
 
 h4 {
   font-weight: bold;
+  margin-bottom: var(--spacing-2);
 }
 
 a {

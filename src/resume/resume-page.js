@@ -21,19 +21,20 @@ define({
                 <ion-icon name="call-outline"></ion-icon><a href="tel:3852190238">(385) 219-0238</a>
               </li>
               <li>
-                <ion-icon name="mail-outline"></ion-icon
-                ><a href="mailto:christopher.bradshaw7@gmail.com"
-                  >christopher.bradshaw7@gmail.com</a
-                >
+                <ion-icon name="mail-outline"></ion-icon>
+                <a href="mailto:christopher.bradshaw7@gmail.com">
+                  christopher.bradshaw7@gmail.com
+                </a>
               </li>
               <li>
-                <ion-icon name="globe-outline"></ion-icon
-                ><a
+                <ion-icon name="globe-outline"></ion-icon>
+                <a
                   href="https://www.linkedin.com/in/christophergbradshaw/"
                   target="_blank"
                   rel="noopener"
-                  >LinkedIn</a
                 >
+                  LinkedIn
+                </a>
               </li>
               <li><ion-icon name="location-outline"></ion-icon>Eagle Mountain, UT, USA</li>
             </ul>
@@ -49,15 +50,17 @@ define({
           <section>
             <h3>Relevant Skills</h3>
             <ul class="list">
-              <li>HTML</li>
-              <li>CSS</li>
+              <li>Written and Verbal Communication</li>
               <li>Typescript</li>
-              <li>JavaScript</li>
-              <li>Svelte</li>
-              <li>React.js</li>
               <li>Node.js</li>
+              <li>React.js</li>
+              <li>Svelte</li>
+              <li>UX Design</li>
               <li>Vite/Other build tools</li>
               <li>CI/CD workflows</li>
+              <li>JavaScript</li>
+              <li>CSS</li>
+              <li>HTML</li>
             </ul>
           </section>
 
@@ -68,7 +71,8 @@ define({
               <li><ion-icon name="cube-outline"></ion-icon>3D modeling/printing</li>
               <li><ion-icon name="language-outline"></ion-icon>Japanese</li>
               <li><ion-icon name="medal-outline"></ion-icon>Gymnastics</li>
-              <li><ion-icon name="flash-outline"></ion-icon>Electronics</li>
+              <li><ion-icon name="hardware-chip-outline"></ion-icon>Electronics</li>
+              <li><ion-icon name="game-controller-outline"></ion-icon>Video Games</li>
             </ul>
           </section>
         </article>
@@ -85,17 +89,20 @@ define({
 
           <section>
             <h4>Senior Software Engineer</h4>
-            <p>Spoonful of Comfort | Salt Lake City, UT | Mar 2023 - Nov 2023</p>
+            <p>Spoonful of Comfort | SLC, UT | Mar 2023 - Nov 2023</p>
             <ul class="list">
               <li>
-                Built a fully functional and highly customized e-commerce website from scratch in
-                SvelteKit, Typescript, and Tailwind
+                Rebuilt the website with a new design from scratch with 39% faster speeds and top
+                WCAG compliance
               </li>
               <li>
-                Designed and built an internal company website that extended the functionality of
-                3rd party platforms such as BigCommerce and ButterCMS
+                Imported over 185,000 coupon codes into BigCommerce via Node.js, saving roughly
+                15,000 hours of work
               </li>
-              <li>Imported over 185,000 coupon codes into BigCommerce from Shopify via Node.js</li>
+              <li>
+                Designed and built an internal company website to control 3rd party platform data,
+                allowing non-tech teams to maintain it
+              </li>
             </ul>
           </section>
 
@@ -105,16 +112,20 @@ define({
             <ul class="list">
               <li>
                 Architected and set up the infrastructure for a re-write of Weave's main software
-                product
+                product, drastically improving the product's speed, UX, and maintainability
               </li>
               <li>
                 Set up a CI pipeline to automatically code sign, notarize, and staple Weave's
-                desktop application
+                desktop application, increasing application trust for over 23,000 customers
               </li>
               <li>
-                Wrote codemods to dynamically refactor technical debt in 3 separate product
-                repositories
+                Built an MSI of our software, allowing our largest customers to simultaneously
+                install the program on over 400 of their computers at once
               </li>
+              <!--<li>
+                Wrote codemods to dynamically refactor technical debt in over 2,000 files across 3
+                separate product repositories, saving over 2 months of development time
+              </li>-->
             </ul>
           </section>
 
@@ -122,10 +133,13 @@ define({
             <h4>Team Lead</h4>
             <p>DataBased | Lehi, UT | Aug 2018 - Sep 2020</p>
             <ul class="list">
-              <li>Created the main Node.js API and PostgreSQL database on the backend</li>
               <li>
-                Designed and implemented the UX/UI for DataBased's websites and services in
-                Typescript and React.js
+                Architected the foundation and patterns for the code on the frontend and backend,
+                allowing junior developers to contribute with less risk
+              </li>
+              <li>
+                Designed and created the UX/UI for DataBased's websites and services in Typescript
+                and React.js, allowing us to beta test our first customers
               </li>
             </ul>
           </section>

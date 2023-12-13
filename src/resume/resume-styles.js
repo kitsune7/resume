@@ -11,7 +11,7 @@ export const resumeStyles = html`
 
     .resume {
       --border-size: var(--layout-2);
-      --padding: 42px;
+      --padding: 38px;
       background-color: white;
       border-top: var(--border-size) solid var(--color-highlight);
       display: grid;
@@ -48,7 +48,7 @@ export const resumeStyles = html`
     }
 
     section:not(:last-of-type) {
-      margin-bottom: var(--padding);
+      margin-bottom: 20px;
     }
 
     ion-icon {
@@ -70,7 +70,8 @@ export const resumeStyles = html`
 
     ul.list {
       list-style-type: disc;
-      margin-left: var(--spacing-7);
+      margin-left: var(--spacing-5);
+      margin-top: var(--spacing-2);
     }
   </style>
 `
